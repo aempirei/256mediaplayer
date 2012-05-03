@@ -1,0 +1,9 @@
+title=256.bz Media Player
+subtitle=256.bz Media Player for playing network media over http.
+mm_icon_focus_hd=pkg:/images/MainMenu_Icon_CenterFocus_HD.png
+mm_icon_side_hd=pkg:/images/MainMenu_Icon_Side_HD.png
+mm_icon_focus_sd=pkg:/images/MainMenu_Icon_CenterFocus_SD.png
+mm_icon_side_sd=pkg:/images/MainMenu_Icon_Side_SD.png
+major_version=1
+minor_version=3
+build_version=00001

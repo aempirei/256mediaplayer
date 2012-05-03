@@ -1,0 +1,19 @@
+256mediaplayer
+256.bz Media Player for playing network media over http.
+Copyright(c) 2012 by Christopher Abad | 20 GOTO 10
+email: aempirei@gmail.com aempirei@256.bz
+http://www.256.bz/ http://www.twentygoto10.com/
+https://github.com/aempirei/256mediaplayer/
+aim: ambientempire
+
+this is Roku 1/2 channel source code for 256mediaplayer.  you
+need to have a developer account to use this source code.
+
+if you're looking for the private channel, please download the
+256mediaplayer-server from github.  it contains instructions
+on how to set the server up and install the private channel.
+
+most of this code is copied directly from an example application
+with minimal changes. Roku retains the original copyright on
+the majority of that. refer to the source files for copyright
+information.
